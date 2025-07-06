@@ -1,1 +1,4 @@
-# learning_html
+# Html and github learing project
+
+this repo is only to be used learn git commands. like
+Git, Github, Repository, Commit, Push, Pull, Clone.
